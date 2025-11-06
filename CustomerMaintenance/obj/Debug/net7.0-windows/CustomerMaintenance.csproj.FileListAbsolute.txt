@@ -1,0 +1,8 @@
+C:\Users\lucar\Desktop\Class Stuff\year2\C#\ExStarts\ch12\CustomerMaintenance\CustomerMaintenance\obj\Debug\net7.0-windows\CustomerMaintenance.frmAddCustomer.resources
+C:\Users\lucar\Desktop\Class Stuff\year2\C#\ExStarts\ch12\CustomerMaintenance\CustomerMaintenance\obj\Debug\net7.0-windows\CustomerMaintenance.frmCustomer.resources
+C:\Users\lucar\Desktop\Class Stuff\year2\C#\ExStarts\ch12\CustomerMaintenance\CustomerMaintenance\obj\Debug\net7.0-windows\CustomerMaintenance.csproj.GenerateResource.cache
+C:\Users\lucar\Desktop\Class Stuff\year2\C#\ExStarts\ch12\CustomerMaintenance\CustomerMaintenance\obj\Debug\net7.0-windows\CustomerMaintenance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucar\Desktop\Class Stuff\year2\C#\ExStarts\ch12\CustomerMaintenance\CustomerMaintenance\obj\Debug\net7.0-windows\CustomerMaintenance.AssemblyInfoInputs.cache
+C:\Users\lucar\Desktop\Class Stuff\year2\C#\ExStarts\ch12\CustomerMaintenance\CustomerMaintenance\obj\Debug\net7.0-windows\CustomerMaintenance.AssemblyInfo.cs
+C:\Users\lucar\Desktop\Class Stuff\year2\C#\ExStarts\ch12\CustomerMaintenance\CustomerMaintenance\obj\Debug\net7.0-windows\CustomerMaintenance.csproj.CoreCompileInputs.cache
+C:\Users\lucar\Desktop\Class Stuff\year2\C#\ExStarts\ch12\CustomerMaintenance\CustomerMaintenance\obj\Debug\net7.0-windows\CustomerMaintenance.sourcelink.json

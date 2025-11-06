@@ -43,8 +43,8 @@
             {
                 string row = textIn.ReadLine() ?? "";
                 string[] columns = row.Split('|');
-                Customer customer = new Customer 
-                { 
+                Customer customer = new Customer
+                {
                     FirstName = columns[0],
                     LastName = columns[1],
                     Email = columns[2]
